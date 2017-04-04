@@ -1,2 +1,1 @@
-# fumba
-Practice dev.
+practice dev exercises for legacy app modernization efforts
